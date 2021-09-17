@@ -4,5 +4,5 @@
 - Jaeger & OpenTelemetry (tracing)
 - Serverless Go
 - GitHub Codespaces vs GitPod.io
-- Personal & satisfying backlog, který se odbavuje (idea)
+- [Personal & satisfying backlog, který se odbavuje (idea)](/presentations/backlog)
 - Conventional commits
