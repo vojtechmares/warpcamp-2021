@@ -1,4 +1,6 @@
-# Nápady na prezentace
+# Moje Prezentace
+
+## Nápady na prezentace
 
 - GoReleaser
 - Jaeger & OpenTelemetry (tracing)

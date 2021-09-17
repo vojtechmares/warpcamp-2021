@@ -1,3 +1,3 @@
 # WarpCamp 2021
 
-- [Nápady na prezentace](/presentations/IDEAS.md)
+- [Nápady na prezentace](/presentations)
