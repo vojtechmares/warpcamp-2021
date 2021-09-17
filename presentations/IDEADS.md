@@ -5,3 +5,4 @@
 - Serverless Go
 - GitHub Codespaces vs GitPod.io
 - Personal & satisfying backlog, který se odbavuje (idea)
+- Conventional commits
