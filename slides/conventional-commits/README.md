@@ -22,7 +22,7 @@
 - `verb: message`
 - `verb(scope): message`
 
-### Examples 
+### Examples
 
 - `feat(integrations): add support for Google Worskpaces`
 - ```
@@ -37,7 +37,9 @@
 - `fix`
 - `BREAKING CHANGE` (IMHO: too long)
 
+
 - `refactor`
+
 
 - `docs`
 - `build`
@@ -48,6 +50,7 @@
 - `test`
 - [Angular Convention](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 
+
 - more?
 
 ### Scope (context)
@@ -55,7 +58,6 @@
 **OPTIONAL!**
 
 - What part of the repository is this related to
-- 
 
 ### Commit message / description
 
